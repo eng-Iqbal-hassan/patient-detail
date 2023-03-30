@@ -32,7 +32,7 @@ main .patient {
 }
 main .patient span {
   color: #9FA2B4;
-  line-height: 20px;
+  line-height: 1.25rem;
 }
 main .patient p {
   line-height: 1.25rem;
@@ -58,7 +58,7 @@ main .patient .health-detail {
   margin-top: 4.75rem;
 }
 main .patient .health-detail .mark {
-  background-color: black;
+  background-color: #000000;
   width: 0.0625rem;
   height: 3.1875rem;
 }/*# sourceMappingURL=style.css.map */
